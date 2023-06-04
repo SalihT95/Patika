@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Patika-Projeleri.iml" filepath="$PROJECT_DIR$/.idea/Patika-Projeleri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch-caseHesapMakinesi/Switch-caseHesapMakinesi.iml" filepath="$PROJECT_DIR$/Switch-caseHesapMakinesi/Switch-caseHesapMakinesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daireDilimAlanHesaplama/daireDilimAlanHesaplama.iml" filepath="$PROJECT_DIR$/daireDilimAlanHesaplama/daireDilimAlanHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hipotenusBulma/hipotenusBulma.iml" filepath="$PROJECT_DIR$/hipotenusBulma/hipotenusBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kdvTutarıHesaplama/kdvTutarıHesaplama.iml" filepath="$PROJECT_DIR$/kdvTutarıHesaplama/kdvTutarıHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kullanici-Giris/kullanici-Giris.iml" filepath="$PROJECT_DIR$/kullanici-Giris/kullanici-Giris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manavKasaProgrami/manavKasaProgrami.iml" filepath="$PROJECT_DIR$/manavKasaProgrami/manavKasaProgrami.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ortalamaHesaplama/ortalamaHesaplama.iml" filepath="$PROJECT_DIR$/ortalamaHesaplama/ortalamaHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taksimetreProgrami/taksimetreProgrami.iml" filepath="$PROJECT_DIR$/taksimetreProgrami/taksimetreProgrami.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vucutKitleIndeksi/vucutKitleIndeksi.iml" filepath="$PROJECT_DIR$/vucutKitleIndeksi/vucutKitleIndeksi.iml" />
+    </modules>
+  </component>
+</project>

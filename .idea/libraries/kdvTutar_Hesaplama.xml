@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kdvTutar_Hesaplama">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/kdvTutarıHesaplama/dist/kdvTutar_Hesaplama.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

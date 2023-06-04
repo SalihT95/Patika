@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hipotenusBulma">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hipotenusBulma/dist/hipotenusBulma.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
