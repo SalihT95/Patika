@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     static int exponentiation(int base,int exponent){
         if (exponent==0){
-            return 1;
+            return 1;//recursive sonlanması için
         }else {
             return base*(exponentiation(base,exponent-1));
         }
