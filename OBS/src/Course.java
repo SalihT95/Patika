@@ -4,7 +4,7 @@ public class Course {
     String code;
     String prefix;
     int note;
-    int oralExam;
+    int oralExam;// sözlü notu
 
     public Course(String name, String code, String prefix) {
         this.name = name;

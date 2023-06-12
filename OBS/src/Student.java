@@ -63,8 +63,8 @@ public class Student {
     }
 
     public void calcAvarage() {
-        this.avarage = (this.fizik.note + this.kimya.note + this.mat.note) / 3;
-        this.avarage=((this.mat.note*0.8+this.mat.oralExam*0.2)+(this.fizik.note*0.8+this.fizik.oralExam*0.2)+(this.kimya.note*0.8+this.kimya.oralExam*0.2))/3.0;
+        //this.avarage = (this.fizik.note + this.kimya.note + this.mat.note) / 3;
+        this.avarage=((this.mat.note*0.8+this.mat.oralExam*0.2)+(this.fizik.note*0.8+this.fizik.oralExam*0.2)+(this.kimya.note*0.8+this.kimya.oralExam*0.2))/3.0;// sözlü notu ile hesaplanmış hali
     }
 
     public boolean isCheckPass() {
