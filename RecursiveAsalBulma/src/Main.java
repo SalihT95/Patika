@@ -1,25 +1,31 @@
 import java.util.Scanner;
 
 public class Main {
-    static void prime() {
-        Scanner inp = new Scanner(System.in);
 
-        int n ,count=0;
+    public static boolean isPrime(int n, int i) {
+        if (n <= 2)
+            return (n == 2);
 
-        System.out.print("Sayıyı giriniz: ");
-        n = inp.nextInt();
+        if (n % i == 0) {
 
-        for (int i = 2; i < n; i++) {
-            if (n % i == 0) {
-                count++;
-            }
+            return false;
+        }else {
+            isPrime(n, i + 1);
+            return true;
         }
 
-        if (count == 0) System.out.println("Sayı asal sayıdır.");
-        else System.out.println("Sayı asal sayı değildir.");
-        prime();
     }
+
     public static void main(String[] args) {
-        prime() ;
+        Scanner inp = new Scanner(System.in);
+        System.out.print("Bir sayı girin: ");
+        int n = inp.nextInt();
+
+        if (isPrime(n, 2))
+            System.out.println(n + " sayısı asaldır.");
+        else
+            System.out.println(n + " sayısı asal değildir.");
+
+        inp.close();
     }
 }
